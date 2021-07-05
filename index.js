@@ -1,4 +1,3 @@
-// Alles mit dem MVC Prinzip programmieren
 // The target for this code is, to write it with
 // the MVC - like class and so on...
 
